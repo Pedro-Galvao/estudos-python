@@ -12,3 +12,10 @@ Os arquivos estão organizados por assunto: atividades, condicionais, listas, en
 4. Execute `python nome_do_arquivo.py` (no Windows, também pode usar `py nome_do_arquivo.py`).
 
 Estes são exercícios de aprendizagem; alguns podem estar incompletos ou conter erros próprios da etapa de estudo e não devem ser tratados como aplicações de produção.
+
+## Projetos
+
+- [Calculadora](./Projetos/Calculadora/README.md)
+- [Jogo da Velha](./Projetos/Jogo-da-Velha/README.md)
+
+A documentação e o arquivo do Smart City estão no [repositório Projeto de Redes](https://github.com/Pedro-Galvao/Projeto-de-Redes/tree/main/Smart-City).
